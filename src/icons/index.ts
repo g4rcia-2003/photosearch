@@ -1,0 +1,12 @@
+export { default as AddIcon } from './AddIcon';
+export { default as CloseIcon } from './CloseIcon';
+export { default as CloseMenuIcon } from './CloseMenuIcon';
+export { default as HomeIcon } from './HomeIcon';
+export { default as InstagramIcon } from './InstagramIcon';
+export { default as MenuIcon } from './MenuIcon';
+export { default as MoonIcon } from './MoonIcon';
+export { default as RemoveIcon } from './RemoveIcon';
+export { default as SaveIcon } from './SaveIcon';
+export { default as SearchIcon } from './SearchIcon';
+export { default as SunIcon } from './SunIcon';
+export { default as TwitterIcon } from './TwitterIcon';
